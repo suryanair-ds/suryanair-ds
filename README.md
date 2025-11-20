@@ -1,22 +1,77 @@
-## Hi there! 👋
 
-I'm **Surya**, a passionate Data Science enthusiast and recent Computer Science graduate from Mumbai, India. I'm on a journey to explore the vast world of data analytics, machine learning, and visualization. Let's unlock the potential of data together!
+<h1 align="center">🌙✨ Hey, I'm Surya Nair — Aspiring Data Scientist ✨🌙</h1>
 
-## About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-Python%20%7C%20SQL%20%7C%20EDA-9370DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools-Jupyter%20Notebook-483D8B?style=for-the-badge&logo=jupyter" />
+</p>
 
-I am a data science enthusiast based in **Mumbai, India**. With a strong foundation in computer science and a keen interest in data analytics, I am eager to delve deeper into machine learning and data visualization. I love transforming data into actionable insights and am constantly seeking to enhance my skills.
+---
 
-## Skills & Technologies
+## 🧠 About Me  
+I'm Surya — stepping into the world of **Data Science**, one project at a time.  
+I learn by doing, experimenting, and breaking things (in Jupyter, not in real life 😄).
 
-html,css,php,git,github,mysql,mongodb,sklearn
+Currently building a strong foundation in:
+- 🐍 **Python**
+- 📊 **Exploratory Data Analysis**
+- 📈 **Visualization (Matplotlib, Seaborn, Plotly)**
+- 🗄️ **SQL**
+- 📚 **Data Cleaning & Preprocessing**
+- 🚀 Developing dashboards and small EDA projects
 
-## Recent Activity
+---
 
-- Pushed updates to [E-commerce Sales Insights Dashboard](https://github.com/suryanair-ds/E-commerce-Sales-Insights-Dashboard-using-Python)  
-- Added features to [Google Data Analysis using Python](https://github.com/suryanair-ds/Google-Data-Analysis-using-Python)  
-- Created [MangaVerse](https://github.com/suryanair-ds/MangaVerse) project  
-- Updated repository README files for better clarity and documentation.
+## 🛠️ Tech Stack  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-## Connect with Me
+---
 
-Email : nairsurya764@gmail.com
+## 📂 Projects I'm Working On  
+Here are my beginner-friendly data science projects:
+
+### 📦 **E-Commerce Sales Insights Dashboard**
+- Sales, profit, discount analysis  
+- Customer trends, product analysis  
+- Time series (monthly + yearly trends)  
+- 🔗 *(Add repository link when uploaded)*  
+
+### 📊 **Superstore EDA Analysis**
+- Category, sub-category performance  
+- Best-selling states & customer segments  
+
+### 🧹 **Data Cleaning Notebook**
+- Handling missing values  
+- Converting data types  
+- Removing duplicates  
+
+➡️ *More coming as I learn!*
+
+---
+
+## 🎯 Goals for 2025  
+- Build 10+ data science projects  
+- Learn Tableau or Power BI  
+- Get comfortable with machine learning basics  
+- Create a full portfolio  
+- Land a data analyst/internship opportunity  
+
+---
+
+## 📬 Connect With Me  
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<h3 align="center">🌌 “Small steps every day lead to big data dreams.” 🌌</h3>
